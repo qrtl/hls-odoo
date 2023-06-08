@@ -1,2 +1,5 @@
 py3o.template
 py3o.formats
+
+# excel_import_export
+openpyxl
